@@ -25,8 +25,10 @@ npm run start
 
 ========================================================================
 To generate minified version of js and css for production release run:
+
 npm run build
 
 To clean up run:
+
 npm run clean
 
