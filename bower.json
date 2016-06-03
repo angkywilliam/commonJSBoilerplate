@@ -1,0 +1,21 @@
+{
+  "name": "commonjs_boilerplate",
+  "description": "Boilerplate for commonjs build",
+  "main": "index.js",
+  "authors": [
+    "Angky William <angky.william@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bowerComponents",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}

@@ -1,0 +1,6 @@
+<!-- index.nunjucks -->
+{% extends "sample-layout.nunjucks" %}
+
+{% block content %}
+<h1 id="intro">Hello World</h1>
+{% endblock %}

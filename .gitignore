@@ -1,0 +1,9 @@
+node_modules/
+test.*
+npm-debug.log
+.ds_store
+app/build/*
+app/bowerComponents/*
+test-bundle.js
+typings
+.vscode/*
